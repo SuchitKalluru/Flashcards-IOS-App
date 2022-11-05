@@ -13,7 +13,7 @@ QuizView() -> CardFront & CardBack
 
 ---------------The Purpose of each View/Method----------------
 
-ContentView() - Main screen where you can acessess the QuestionListView() and the QuizView()
+ContentView() - Main screen where you can accesses the QuestionListView() and the QuizView()
 
 QuestionListView() - Allows you to create/delete flashcards 
 
